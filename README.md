@@ -4,7 +4,7 @@ I haven't yet explored the GUI aspect of the game, it is still something that I 
 
 In the future, I will come back to this project to implement a GUI, specifically using SwingX.
 
-Pull Request
+Pull Request: https://github.com/ApparentlyVenus/blackjack-game.git
 
 
 
